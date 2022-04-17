@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 -2 33 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #262f32;
+        fill-rule: evenodd;
+        opacity: 0.9;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect width="33" height="29"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-1" d="M0,3V0H33V3H0ZM0,16V13H33v3H0ZM0,29V26H33v3H0Z"/>
+  </g>
+</svg>
